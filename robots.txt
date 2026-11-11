@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gianmarcoruzzier1.github.io/valuation-uncertainty-refinancing/sitemap.xml
